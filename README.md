@@ -6,10 +6,10 @@
 
 ## Installation
 
-Clone this repository and move `/path/to/rofi/themes` to `~/.config/rofi/themes`.
+Clone this repository and copy `/path/to/rofi/themes` to `~/.config/rofi/themes`.
 
 ```
-git clone https://github.com/sakura-theme/rofi.git /path/to
+git clone https://github.com/sakura-theme/rofi.git /path/to/rofi
 ```
 
 Add the following line to `~/.config/rofi/config.rasi`.
