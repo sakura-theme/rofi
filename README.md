@@ -12,7 +12,7 @@ Clone this repository and move `/path/to/rofi/themes` to `~/.config/rofi/themes`
 git clone https://github.com/sakura-theme/rofi.git /path/to
 ```
 
-Add the following line to `~/.config/rofi/config.rasi`
+Add the following line to `~/.config/rofi/config.rasi`.
 
 ```
 @theme "themes/sakura.rasi"
